@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conjunto/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/conjunto/"}
 ---
 
 ---
