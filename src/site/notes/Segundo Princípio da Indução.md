@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/segundo-principio-da-inducao/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/segundo-principio-da-inducao/"}
 ---
 
 ---
