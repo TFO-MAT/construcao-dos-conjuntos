@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/conjunto-dos-numeros-inteiros/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/conjunto-dos-numeros-inteiros/"}
 ---
 
 ---
