@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/funcao/","tags":["gardenEntry"]}
 ---
 
+---
 Função é uma [[Relação\|Relação]] que é estabelecida entre dois conjuntos em que há uma correspondência entre os elementos de um certo [[Conjunto\|Conjunto]] $A$ com elementos de um conjunto $B$.
 
 Uma função $f:A\to B$ consta de três partes: um conjunto $A$, chamado “domínio” da função (ou o conjunto onde a função é definida), um conjunto $B$, chamado “contradomínio” da função (ou o conjunto onde a função toma valores), e uma regra que permite associar, de modo bem determinado, a cada elemento $x\in A$, um único elemento $f(x)\in B$, chamado o “valor” que a função assume em $x$ (ou no ponto $x$).
