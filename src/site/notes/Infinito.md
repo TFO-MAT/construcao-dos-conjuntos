@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/infinito/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/infinito/"}
 ---
 
 ---
